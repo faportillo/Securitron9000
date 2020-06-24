@@ -1,4 +1,7 @@
 # Securitron9000
+
+Undergrad Project from Spring 2016. Original build files related to IDE lost. Only .C files included.
+
 Proof-of-concept security robot with emotional displays
 
 This project showcases my prototyping, design, embedded systems programming, and control systems skills.  
